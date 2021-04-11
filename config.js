@@ -7,7 +7,7 @@ const OriginalOwner = '593992390339'
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '℘ąɬơ ცơɬ ۷5\n' 
+const cr = '𒆜✯𝐁𝐨𝐭 𝐊𝐢𝐧𝐠𝐝𝐨𝐦✯𒆜\n' 
 // texto del menu
 
 const prefix = '!' 
