@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["593992390339@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '593992390339' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
@@ -78,7 +78,7 @@ const botfdp = 'Calla cagada'
 const botgostoso = 'Ojo 😳👉👈'
 const botfofo = 'Ojo 😳👉👈'
 const botbaianor = 'La tuya'
-const botcorno = 'Come verga'
+const botcorno = 'Come verga gay puto'
 const botputa = 'Señora tu madre 😡'
 const botgay = 'Calla mongolo 😡'
 const botviado = 'Calla pvto 😡'
@@ -114,7 +114,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Mi creador\n' 
 + 'ORG:℘ąɬơ;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=17694448714:+1 (769) 444-8714\n' 
++ 'TEL;type=CELL;type=VOICE;waid=593992390339 :+593 99 239 0339\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
