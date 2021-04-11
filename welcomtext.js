@@ -4,6 +4,6 @@ const welcome = (number, groupname) => {
 exports.welcome = welcome
 
 const bye = (number) => {
-    return `Adios joto @${number}. 👋`
+    return `Adios joto ni te queríamos @${number}. 👋`
 }
 exports.bye = bye
