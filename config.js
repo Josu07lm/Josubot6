@@ -112,7 +112,7 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:Mi creador\n' 
++ 'FN:Mi creador fachero\n' 
 + 'ORG:℘ąɬơ;\n' 
 + 'TEL;type=CELL;type=VOICE;waid=593992390339 :+593 99 239 0339\n' 
 + 'END:VCARD'
